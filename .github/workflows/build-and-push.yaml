@@ -7,7 +7,7 @@ env:
   PROJECT_ID: fine-effect-382702
   GAR_LOCATION: us-central1
   REPOSITORY: proj-store-app-repo
-  IMAGE: proj-img
+  IMAGE: proj-img-2
 
 jobs:
   login-build-push:
